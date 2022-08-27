@@ -1,3 +1,20 @@
+# my-app
+npx create-react-app my-app
+cd my-app
+cd src
+
+# If you're using a Mac or Linux:
+rm -f *
+
+# Or, if you're on Windows:
+del *
+
+# Then, switch back to the project folder
+cd ..
+Add a file named index.css in the src/ folder with this CSS code.
+Add a file named index.js in the src/ folder with this JS code.
+Add these three lines to the top of index.js in the src/ folder:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
